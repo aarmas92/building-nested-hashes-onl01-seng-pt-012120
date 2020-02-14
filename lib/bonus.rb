@@ -1,5 +1,5 @@
 def bonus
-  epic_tragedy{
+  epic_tragedy = {
  
 puts epic_tragedy
  
