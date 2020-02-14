@@ -1,7 +1,7 @@
 def bonus
   epic_tragedy = {
  
-puts epic_tragedy
+#puts epic_tragedy
  
 #  =>
 {
